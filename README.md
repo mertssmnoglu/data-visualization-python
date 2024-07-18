@@ -22,6 +22,10 @@ HTTP:
 git clone https://github.com/mertssmnoglu/data-visualization-python.git
 ```
 
+## Star History Chart
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mertssmnoglu/data-visualization-python&type=Date)](https://star-history.com/#mertssmnoglu/data-visualization-python&Date)
+
 ## License
 
 [Apache-2.0](./LICENSE)
